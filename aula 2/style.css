@@ -1,0 +1,19 @@
+h1{
+    font-family: serif;
+    font-size: 20px;
+}
+label{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+button{
+
+font-size: medium;
+font-family: sans-serif;
+width: 150px;
+background-color: gray;
+}
+h2{
+    font-size: 20px;
+    font-family: serif;
+}
